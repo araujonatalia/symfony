@@ -26,6 +26,10 @@ class PageController extends AbstractController
      return $this->render('home.html.twig', [
       'comments' => $comments]);
     }
+    //vamos aguardar cambios. git 
+
+    //segundas linea cambiada
+
 
 
 }
